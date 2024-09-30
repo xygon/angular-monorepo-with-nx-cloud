@@ -10,5 +10,5 @@ import { NxWelcomeComponent } from './nx-welcome.component';
   styleUrl: './app.component.sass',
 })
 export class AppComponent {
-  title = 'store';
+  title = 'Store';
 }
